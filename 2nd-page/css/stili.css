@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.bg {
+    background-color: #f8c3d1;
+}
+.jumbotron {
+    width: 1500px;
+    height: 150px;
+    text-align: center;
+    border-radius: 25px;
+    display: grid;
+    grid-auto-flow: column;
+}
+.title2 {
+    font-size: 100px;
+    font-family: 'Bebas Neue', sans-serif;
+    align-self: center;
+}
+.div-img {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 606px;
+}
+.img {
+    padding: 6px;
+    width: 600px;
+    border-radius: 25px;
+}
