@@ -9,7 +9,7 @@
   > [!WARNING]
   > **NON CAMBIATE I NOMI DEI FILE** *Sopratutto il nome del file html* 
 
-## LAVORI FINII:
+## LAVORI FINITO:
 - [x] Thammahetti
 
 
