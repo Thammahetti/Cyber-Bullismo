@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .casa{
   background-color: #0066cc;
+  position: sticky;
 }
 .top-nav{
   display: flex;
@@ -8,6 +12,7 @@
   justify-content: space-between;
 }
 .bottone-navbar{
+  font-family: 'Montserrat', sans-serif;
   border: 0px;
   padding-bottom: 0px;
   background-color: transparent;
@@ -59,4 +64,8 @@ td ,tr
 .color_3{
   border-top-right-radius: 10px ;
   border-bottom-right-radius: 10px;
+}
+.sabo{
+  font-family: 'Bebas neue', sans-serif;
+  font-size: 30px;
 }
