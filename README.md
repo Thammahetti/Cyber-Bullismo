@@ -15,6 +15,7 @@
 ## LAVORI FINITO:
 - [x] Thammahetti
 - [x] Santiana
+- [x] Wijeratne
 
 
 
