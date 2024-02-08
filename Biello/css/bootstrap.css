@@ -1,0 +1,58 @@
+.casa{
+  background-color: #0066cc;
+}
+.top-nav{
+  
+  background-color:#00264c;
+  margin: 0px;
+}
+.bottone-navbar{
+  border: 0px;
+  padding-bottom: 0px;
+  background-color: transparent;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+.bottone-navbar:hover{
+  border: 0px;
+  color: white;
+  
+  background-color: transparent;
+  border-bottom: solid white 1px;
+  font-weight: bold;
+
+}
+.img1{
+  width: 200px;
+  height: 100px;
+}
+
+.line-23{
+  height: 2px;
+  background-color: white;
+}
+.div1{
+  border: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: transparent;
+  font-weight: bolder;
+  color: white;
+  font-size: 15px;
+}
+
+.div2{
+  border: 0px;
+  padding-bottom: 0px;
+  background-color: white;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.padding1{
+  padding-bottom: 5px;
+  padding-top: 20px;
+  font-style: italic;
+}
